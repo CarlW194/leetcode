@@ -1,2 +1,2 @@
 # leetcode
-Leetcode block to hold all submissions
+Leetcode repository to hold all submissions
